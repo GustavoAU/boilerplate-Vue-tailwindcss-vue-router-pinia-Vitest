@@ -8,9 +8,9 @@
 <a href="https://tailwindcss.com/" target="blank" style="margin: 0 1rem;"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.8b6b5a5b.svg" width="90" alt="Tailwind CSS Logo" /></a>
 
 <br><br>
-[![repo-size](https://img.shields.io/github/repo-size/GustavoAU/prueba-vue.svg)](repo-size)
-[![last-commit](https://img.shields.io/github/last-commit/GustavoAU/prueba-vue.svg)](last-commit)
-[![release](https://img.shields.io/github/release/GustavoAU/prueba-vue.svg)](release)
+[![repo-size](https://img.shields.io/github/repo-size/GustavoAU/boilerplate-Vue-tailwindcss-vue-router-pinia-Vitest.svg)](repo-size)
+[![last-commit](https://img.shields.io/github/last-commit/GustavoAU/boilerplate-Vue-tailwindcss-vue-router-pinia-Vitest.svg)](last-commit)
+[![release](https://img.shields.io/github/release/GustavoAU/boilerplate-Vue-tailwindcss-vue-router-pinia-Vitest.svg)](release)
 
 <h1>✨ Vue Boilerplate ✨</h1>
 </div>
@@ -74,7 +74,7 @@ The boilerplate of Vue v3, Typescript, Vite, Vue Router, Pinia, Tailwind CSS, an
 1. Clone this repository:
 
    ```sh
-   git clone https://github.com/GustavoAU/prueba-vue.git
+   git clone https://github.com/GustavoAU/boilerplate-Vue-tailwindcss-vue-router-pinia-Vitest.git
    ```
 
 2. Install dependencies:
