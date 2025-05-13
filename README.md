@@ -1,18 +1,15 @@
-# prueba-vue
+# <h1>✨ Vue Boilerplate ✨</h1>
 
 <div align="center">
 <a href="https://vuejs.org/" target="blank" style="margin: 0 1rem;"><img src="https://router.vuejs.org/logo.svg" width="80" alt="Vue Logo" /></a>
 <a href="https://www.typescriptlang.org/" target="blank" style="margin: 0 1rem;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png?20210506173343" width="80" alt="Typescript Logo" /></a>
 <a href="https://vitejs.dev/" target="blank" style="margin: 0 1rem;"><img src="https://vitejs.dev/logo.svg" width="80" alt="Vite Logo" /></a>
 <a href="https://pinia.vuejs.org/" target="blank" style="margin: 0 1rem;"><img src="https://pinia.vuejs.org/logo.svg" width="50" alt="Pinia Logo" /></a>
-<a href="https://tailwindcss.com/" target="blank" style="margin: 0 1rem;"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.8b6b5a5b.svg" width="90" alt="Tailwind CSS Logo" /></a>
+<a href="https://tailwindcss.com/" target="blank" style="margin: 0 1rem;"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" width="90" alt="Tailwind CSS Logo" /></a>
 
 <br><br>
-[![repo-size](https://img.shields.io/github/repo-size/GustavoAU/boilerplate-Vue-tailwindcss-vue-router-pinia-Vitest.svg)](repo-size)
-[![last-commit](https://img.shields.io/github/last-commit/GustavoAU/boilerplate-Vue-tailwindcss-vue-router-pinia-Vitest.svg)](last-commit)
-[![release](https://img.shields.io/github/release/GustavoAU/boilerplate-Vue-tailwindcss-vue-router-pinia-Vitest.svg)](release)
 
-<h1>✨ Vue Boilerplate ✨</h1>
+
 </div>
 
 The boilerplate of Vue v3, Typescript, Vite, Vue Router, Pinia, Tailwind CSS, and Playwright for building efficient, maintainable, and scalable enterprise applications.
